@@ -26,4 +26,4 @@ No JavaScript or frameworks used — pure HTML & CSS!
 
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/mryounus96/Furniter_UI.git
+   git clone https://github.com/mryounus96/Furniter_UI
