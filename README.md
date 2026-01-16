@@ -2,7 +2,7 @@
 
 A clean and responsive furniture website UI built with **HTML & CSS only** — created for learning frontend design fundamentals.
 
-![Preview](imgs\home-page.png)
+![Preview] imgs\home-page.png
 
 ## 📌 Overview
 
